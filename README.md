@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img src="favicon.ico">
+    <img src="favicon.ico" width="100px" alt="My favicon">
+    <br>
+    <br>
     Music Player
 </h1>
 <p>
