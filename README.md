@@ -3,9 +3,9 @@
     Music Player
 </h1>
 <p>
-    I am starting to learn javascript by myself, besides what I have been learning about this language programming in my university. 
+    I am starting to learn javascript by myself, besides what  my university has been teaching about this programming language. 
     <br> <br>
-    According to this, I decide start making some projects to improve my knowledges, which the one of them is my <strong><a href="https://gabriel-lucas-sl.github.io/Music-Player/" target="_blank">Music Player</a> Javascript Project</strong>.
+    According to this, I decide to start making some projects to improve my knowledges, which the one of them is my <strong><a href="https://gabriel-lucas-sl.github.io/Music-Player/" target="_blank">Music Player</a> Javascript Project</strong>.
 </p>
 
 <a href="https://gabriel-lucas-sl.github.io/Music-Player/" target="_blank">
