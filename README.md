@@ -8,7 +8,6 @@
 <img src="images/gif-project_js.gif" alt="music-play-gif" width="100%">
 
 <h2>Technologies</h2>
-<hr width="10%" align="left">
 <p> 
     I developed this project using:
 </p>
