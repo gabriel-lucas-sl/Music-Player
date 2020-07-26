@@ -13,7 +13,7 @@
 </a>
 
 <p>
-    Você pode visualizar o projeto clicando <a href="https://gabriel-lucas-sl.github.io/Music-Player/" target="_blank">aqui</a>.
+    You can check it out clicking on <a href="https://gabriel-lucas-sl.github.io/Music-Player/" target="_blank">here</a>.
 </p>
 
 <h2>Technologies</h2>
